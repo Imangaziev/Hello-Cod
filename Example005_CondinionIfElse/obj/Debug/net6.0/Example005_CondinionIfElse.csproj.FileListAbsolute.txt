@@ -1,0 +1,15 @@
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/bin/Debug/net6.0/Example005_CondinionIfElse
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/bin/Debug/net6.0/Example005_CondinionIfElse.deps.json
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/bin/Debug/net6.0/Example005_CondinionIfElse.runtimeconfig.json
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/bin/Debug/net6.0/Example005_CondinionIfElse.dll
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/bin/Debug/net6.0/Example005_CondinionIfElse.pdb
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/obj/Debug/net6.0/Example005_CondinionIfElse.csproj.AssemblyReference.cache
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/obj/Debug/net6.0/Example005_CondinionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/obj/Debug/net6.0/Example005_CondinionIfElse.AssemblyInfoInputs.cache
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/obj/Debug/net6.0/Example005_CondinionIfElse.AssemblyInfo.cs
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/obj/Debug/net6.0/Example005_CondinionIfElse.csproj.CoreCompileInputs.cache
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/obj/Debug/net6.0/Example005_CondinionIfElse.dll
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/obj/Debug/net6.0/refint/Example005_CondinionIfElse.dll
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/obj/Debug/net6.0/Example005_CondinionIfElse.pdb
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/obj/Debug/net6.0/Example005_CondinionIfElse.genruntimeconfig.cache
+/Users/lector/Desktop/C#/Examples/Example005_CondinionIfElse/obj/Debug/net6.0/ref/Example005_CondinionIfElse.dll
